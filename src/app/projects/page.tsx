@@ -1,7 +1,7 @@
 import Link from "next/link";
 
 import { Card, CardContent, CardHeader, CardTitle, CardFooter, CardDescription } from "@/components/ui/card";
-import { projects } from "@/database/db.json";
+import data from "@/database/db.json";
 
 export default function Projects() {
   return (
@@ -13,7 +13,7 @@ export default function Projects() {
         Some are silly, some are serious, and some are special enough to earn that coveted spot on the fridge door. Each one represents a bit of my coding journey and love for building things.
       </p>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6 my-6">
-        {projects.map((project, i) => (
+        {data.projects.map((project, i) => (
           <Card key={i + 1} className="flex flex-col h-full transform transition-all duration-200 hover:-translate-y-boxShadowY">
             <CardHeader>
               <CardTitle>{project.name}</CardTitle>

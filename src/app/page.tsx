@@ -2,7 +2,7 @@ import Image from "next/image";
 
 import latestProfilePicture from "@/assets/latest_profpic.webp";
 import { Card, CardHeader, CardContent, CardDescription, CardTitle, CardFooter } from "@/components/ui/card";
-import { featured_projects } from "@/database/db.json";
+import data from "@/database/db.json";
 import Link from "next/link";
 
 export default function Home() {
@@ -114,7 +114,7 @@ export default function Home() {
             <span className="border-b-2 border-main">featured projects:</span>
           </h3>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-            {featured_projects.map((project) => (
+            {data.featured_projects.map((project) => (
               <Card key={project.id} className="flex flex-col h-full">
                 <CardHeader>
                   <CardTitle>{project.name}</CardTitle>
