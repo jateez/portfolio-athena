@@ -37,6 +37,10 @@ const config: Config = {
         base: "500",
         heading: "800",
       },
+      fontFamily: {
+        sans: ["var(--font-public-sans)"],
+        dm: ["var(--font-dm-sans)"],
+      },
     },
   },
   plugins: [require("tailwindcss-animate")],

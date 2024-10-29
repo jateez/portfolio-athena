@@ -1,11 +1,9 @@
 import type { Metadata } from "next";
-import { Public_Sans } from "next/font/google";
 
 import "./globals.css";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
-
-const publicSans = Public_Sans({ subsets: ["latin"] });
+import { dmSans, publicSans } from "@/lib/fonts";
 
 export const metadata: Metadata = {
   title: "Arya | Software Engineer",
@@ -19,9 +17,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" suppressHydrationWarning>
-      <body className={`${publicSans.className} antialiased bg-[#fff4e0] text-[#000]`}>
+      <body className={`${publicSans.variable} ${dmSans.variable} font-sans antialiased bg-[#fff4e0] text-[#000]`}>
         <Navbar />
-        {children}
+        <div className="mx-auto max-w-4xl min-h-screen">{children}</div>
         <Footer />
       </body>
     </html>
