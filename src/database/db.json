@@ -71,7 +71,7 @@
       "description": "An e-commerce platform designed for idol merchandise. Developed with Next.js, it creates a smooth and engaging shopping experience.",
       "techStacks": ["TypeScript", "Node.js", "Express", "React", "Next.js", "Redis", "Tailwind CSS", "DaisyUI", "AWS"],
       "repoUrl": "https://github.com/jateez/Idolniso-Public",
-      "appUrl": "",
+      "appUrl": "https://idolniso.vercel.app/",
       "imageUrl": "",
       "isOngoing": false,
       "littleNote": ""
