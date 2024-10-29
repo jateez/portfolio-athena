@@ -13,7 +13,7 @@ export default function Home() {
           <div className="flex-col items-center justify-start">
             <h2 className="font-heading text-2xl md:text-3xl">Hello!</h2>
             <h1 className="font-heading text-3xl md:text-4xl pt-2">
-              I'm <span className="text-main">Arya</span> Wibowo Jati!
+              I&apos;m <span className="text-main">Arya</span> Wibowo Jati!
             </h1>
             <h2 className="font-heading text-2xl md:text-3xl pt-3">
               Software Engineer with <span className="bg-main px-1">high curiosity</span>
