@@ -7,31 +7,31 @@
       "techStacks": ["TypeScript", "JavaScript", "Node.js", "Express", "React", "ReactNative", "Redis", "Tailwind CSS", "DaisyUI", "AWS", "MongoDB", "Mongoose"],
       "repoUrl": "https://github.com/orgs/Graduation-Team-SBY/",
       "appUrl": "",
-      "imageUrl": "https://example.com/images/yangtu.png",
+      "imageUrl": "",
       "isOngoing": false,
-      "littleNote": "a bit challenging to implement complex application available on both web and mobile version in only 2 weeks on a team of 6 (3 Frontend and 3 Backend)"
+      "littleNote": "Developed within two weeks as part of a six-member team, I was responsible for designing the application architecture and managing the development and deployments of both backend and mobile applications. Balancing a robust backend with responsive interfaces presented challenges, but ultimately led to a rewarding, user-centered outcome."
     },
     {
       "id": 2,
       "name": "FitMeLook",
-      "description": "A mobile app that provides personalized outfit suggestions using AI. The app analyzes facial features and seasonal colors to recommend the best fashion choices for women.",
+      "description": "A mobile app using AI to personalize outfit recommendations based on facial features and seasonal color palettes. Tailored for women, this app marries fashion with cutting-edge technology for an engaging user experience.",
       "techStacks": ["TypeScript", "Node.js", "NestJS", "Cloud Firestore", "Firebase", "Google Cloud Platform", "TensorFlow.js"],
       "repoUrl": "https://github.com/orgs/Bangkit-Project-FitMe/",
       "appUrl": "",
-      "imageUrl": "https://example.com/images/fitmelook.png",
+      "imageUrl": "",
       "isOngoing": false,
-      "littleNote": "a bit challenging due to we start from problem > data > solution > problem solving."
+      "littleNote": "Led the team as project manager, while also collaborating with my partner on backend development and cloud infrastructure. Through problem-oriented data exploration, we designed FitMeLook with iterative AI adjustments to enhance the accuracy of personalized recommendations."
     },
     {
       "id": 3,
       "name": "LingoLandSaga",
-      "description": "A real-time web game designed to help users improve their typing speed through fun and competitive gameplay. Players can practice typing while competing with others online.",
+      "description": "A real-time, competitive typing game designed to boost users' typing speed through a fun, interactive environment. Compete with others online to level up your typing skills in real time",
       "techStacks": ["JavaScript", "Node.js", "Express", "React.js", "Tailwind CSS", "DaisyUI", "Socket.IO", "AWS"],
       "repoUrl": "https://github.com/orgs/LingoLandSaga/",
       "appUrl": "",
-      "imageUrl": "https://example.com/images/lingolandsaga.png",
+      "imageUrl": "",
       "isOngoing": false,
-      "littleNote": "it was fun implementing real-time socket connection web apps"
+      "littleNote": "Collaborating with a partner, I implemented real-time Socket.IO connections to create dynamic and fluid gameplay, significantly enhancing the user experience."
     }
   ],
 
@@ -42,17 +42,17 @@
       "techStacks": ["TypeScript", "Node.js", "React", "Next.js", "Redis", "Tailwind CSS", "Shadcn"],
       "repoUrl": "https://github.com/jateez/Portfolio-Athena",
       "appUrl": "",
-      "imageUrl": "https://example.com/images/idolniso.png",
+      "imageUrl": "",
       "isOngoing": true,
       "littleNote": ""
     },
     {
       "name": "MauMelali",
-      "description": "MauMelali is a company to help and guide you on finding the most amazing experiences available when visiting europe. I made their responsive website pages and their web server for blogging purposes.",
+      "description": "A responsive website to assist travelers in finding unique European experiences, complete with a custom blogging server.",
       "techStacks": ["TypeScript", "Node.js", "Express", "React.js", "Tailwind CSS", "DaisyUI"],
-      "repoUrl": "https://github.com/jateez/LingoLandSaga",
+      "repoUrl": "https://github.com/jateez/",
       "appUrl": "",
-      "imageUrl": "https://example.com/images/lingolandsaga.png",
+      "imageUrl": "",
       "isOngoing": true,
       "littleNote": ""
     },
@@ -62,17 +62,17 @@
       "techStacks": ["TypeScript", "JavaScript", "Node.js", "Express", "React", "ReactNative", "Redis", "Tailwind CSS", "DaisyUI", "AWS", "MongoDB", "Mongoose"],
       "repoUrl": "https://github.com/orgs/Graduation-Team-SBY/",
       "appUrl": "",
-      "imageUrl": "https://example.com/images/yangtu.png",
+      "imageUrl": "",
       "isOngoing": false,
-      "littleNote": ""
+      "littleNote": "Developed within two weeks as part of a six-member team, I was responsible for designing the application architecture and managing the development and deployments of both backend and mobile applications. Balancing a robust backend with responsive interfaces presented challenges, but ultimately led to a rewarding, user-centered outcome."
     },
     {
       "name": "Idolniso",
-      "description": "An e-commerce website for fans to buy merchandise related to their favorite idols. This project was created to explore Next.js and build a smooth, responsive online shopping experience.",
+      "description": "An e-commerce platform designed for idol merchandise. Developed with Next.js, it creates a smooth and engaging shopping experience.",
       "techStacks": ["TypeScript", "Node.js", "Express", "React", "Next.js", "Redis", "Tailwind CSS", "DaisyUI", "AWS"],
       "repoUrl": "https://github.com/jateez/Idolniso-Public",
       "appUrl": "",
-      "imageUrl": "https://example.com/images/idolniso.png",
+      "imageUrl": "",
       "isOngoing": false,
       "littleNote": ""
     },
@@ -82,27 +82,27 @@
       "techStacks": ["JavaScript", "Node.js", "Apollo GraphQL", "React Native", "Redis", "AWS"],
       "repoUrl": "https://github.com/jateez/Idolstagram-Public",
       "appUrl": "",
-      "imageUrl": "https://example.com/images/idolstagram.png",
+      "imageUrl": "",
       "isOngoing": false,
       "littleNote": ""
     },
     {
       "name": "LingoLandSaga",
-      "description": "A real-time web game designed to help users improve their typing speed through fun and competitive gameplay. Players can practice typing while competing with others online.",
+      "description": "A real-time, competitive typing game designed to boost users' typing speed through a fun, interactive environment. Compete with others online to level up your typing skills in real time",
       "techStacks": ["JavaScript", "Node.js", "Express", "React.js", "Tailwind CSS", "DaisyUI", "Socket.IO", "AWS"],
       "repoUrl": "https://github.com/orgs/LingoLandSaga/",
       "appUrl": "",
-      "imageUrl": "https://example.com/images/lingolandsaga.png",
+      "imageUrl": "",
       "isOngoing": false,
-      "littleNote": ""
+      "littleNote": "Collaborating with a partner, I implemented real-time Socket.IO connections to create dynamic and fluid gameplay, significantly enhancing the user experience."
     },
     {
       "name": "Roastify",
-      "description": "A fun app that uses AI to roast users based on their Spotify profiles, artists, or albums with creative and humorous comments. It provides an entertaining way to engage with music preferences.",
+      "description": "A lighthearted AI app that humorously “roasts” users based on their Spotify favorites, merging music taste with fun analysis.",
       "techStacks": ["JavaScript", "Node.js", "Express", "React.js", "Tailwind CSS", "DaisyUI", "AWS"],
       "repoUrl": "https://github.com/jateez/Roastify-Public",
       "appUrl": "",
-      "imageUrl": "https://example.com/images/roastify.png",
+      "imageUrl": "",
       "isOngoing": false,
       "littleNote": ""
     },
@@ -112,7 +112,7 @@
       "techStacks": ["JavaScript", "Node.js", "React.js", "Tailwind CSS", "DaisyUI", "AWS", "Firebase"],
       "repoUrl": "https://github.com/jateez/Restaurant-App-Public",
       "appUrl": "",
-      "imageUrl": "https://example.com/images/roastify.png",
+      "imageUrl": "",
       "isOngoing": false,
       "littleNote": ""
     },
@@ -122,7 +122,7 @@
       "techStacks": ["JavaScript", "Node.js", "Express", "Tailwind CSS", "DaisyUI"],
       "repoUrl": "https://github.com/jateez/Pair-Project-Phase-1",
       "appUrl": "",
-      "imageUrl": "https://example.com/images/simplesocialmediawebapp.png",
+      "imageUrl": "",
       "isOngoing": false,
       "littleNote": ""
     },
@@ -132,27 +132,27 @@
       "techStacks": ["HTML", "CSS", "JavaScript"],
       "repoUrl": "https://github.com/jateez/H8-P0-Hackacton",
       "appUrl": "https://jateez.github.io/H8-P0-Hackacton/",
-      "imageUrl": "https://example.com/images/fitmelook.png",
+      "imageUrl": "",
       "isOngoing": false,
       "littleNote": ""
     },
     {
       "name": "FitMeLook",
-      "description": "A mobile app that provides personalized outfit suggestions using AI. The app analyzes facial features and seasonal colors to recommend the best fashion choices for women.",
+      "description": "A mobile app using AI to personalize outfit recommendations based on facial features and seasonal color palettes. Tailored for women, this app marries fashion with cutting-edge technology for an engaging user experience.",
       "techStacks": ["TypeScript", "Node.js", "NestJS", "Cloud Firestore", "Firebase", "Google Cloud Platform", "TensorFlow.js"],
       "repoUrl": "https://github.com/orgs/Bangkit-Project-FitMe/",
       "appUrl": "",
-      "imageUrl": "https://example.com/images/fitmelook.png",
+      "imageUrl": "",
       "isOngoing": false,
-      "littleNote": ""
+      "littleNote": "Led the team as project manager, while also collaborating with my partner on backend development and cloud infrastructure. Through problem-oriented data exploration, we designed FitMeLook with iterative AI adjustments to enhance the accuracy of personalized recommendations."
     },
     {
       "name": "PDF Scraper",
-      "description": "This is a one-sitting-fun-project-scripts that scrapes PDF files from a website (my case was https://peraturan.go.id) and downloads them locally. It utilizes Node.js with Cheerio for HTML parsing and Axios for making HTTP requests.",
+      "description": "Built for personal use, this script scrapes and downloads PDFs from specified websites, utilizing Node.js for efficient data scraping and storage.",
       "techStacks": ["Node.js", "JavaScript"],
       "repoUrl": "https://github.com/jateez/fun-nodejs-pdf-scraper",
       "appUrl": "",
-      "imageUrl": "https://example.com/images/fitmelook.png",
+      "imageUrl": "",
       "isOngoing": false,
       "littleNote": ""
     },
@@ -162,7 +162,7 @@
       "techStacks": ["HTML", "CSS"],
       "repoUrl": "https://github.com/jateez/simple-personal-web-bangkit",
       "appUrl": "https://jateez.github.io/simple-personal-web-bangkit/",
-      "imageUrl": "https://example.com/images/fitmelook.png",
+      "imageUrl": "",
       "isOngoing": false,
       "littleNote": ""
     },
@@ -172,7 +172,7 @@
       "techStacks": ["HTML", "CSS"],
       "repoUrl": "https://github.com/jateez/front-end-dicoding-submission",
       "appUrl": "https://jateez.github.io/front-end-dicoding-submission/",
-      "imageUrl": "https://example.com/images/fitmelook.png",
+      "imageUrl": "",
       "isOngoing": false,
       "littleNote": ""
     },
@@ -182,7 +182,7 @@
       "techStacks": ["Java"],
       "repoUrl": "https://github.com/jateez/data_access_framework_pbpu",
       "appUrl": "",
-      "imageUrl": "https://example.com/images/fitmelook.png",
+      "imageUrl": "",
       "isOngoing": false,
       "littleNote": ""
     },
@@ -192,7 +192,7 @@
       "techStacks": ["PHP", "JavaScript", "Laravel", "Blade", "Bootstrap 5", "MySQL"],
       "repoUrl": "https://github.com/jateez/fun-nodejs-pdf-scraper",
       "appUrl": "",
-      "imageUrl": "https://example.com/images/fitmelook.png",
+      "imageUrl": "",
       "isOngoing": false,
       "littleNote": ""
     },
@@ -202,7 +202,7 @@
       "techStacks": ["Java"],
       "repoUrl": "https://github.com/jateez/expensemanager_pbpu",
       "appUrl": "",
-      "imageUrl": "https://example.com/images/fitmelook.png",
+      "imageUrl": "",
       "isOngoing": false,
       "littleNote": ""
     },
@@ -212,7 +212,7 @@
       "techStacks": ["Node.js", "JavaScript", "Hapi.js"],
       "repoUrl": "https://github.com/jateez/notes-app-back-end",
       "appUrl": "",
-      "imageUrl": "https://example.com/images/fitmelook.png",
+      "imageUrl": "",
       "isOngoing": false,
       "littleNote": ""
     },
@@ -222,7 +222,7 @@
       "techStacks": ["Node.js", "JavaScript", "Hapi.js"],
       "repoUrl": "https://github.com/jateez/bookshelf-api-dicoding",
       "appUrl": "",
-      "imageUrl": "https://example.com/images/fitmelook.png",
+      "imageUrl": "",
       "isOngoing": false,
       "littleNote": ""
     },
@@ -232,7 +232,7 @@
       "techStacks": ["PHP", "JavaScript", "Laravel", "Blade", "Bootstrap 5", "MySQL"],
       "repoUrl": "https://github.com/jateez/todoo-app",
       "appUrl": "",
-      "imageUrl": "https://example.com/images/fitmelook.png",
+      "imageUrl": "",
       "isOngoing": false,
       "littleNote": ""
     },
@@ -242,7 +242,7 @@
       "techStacks": ["HTML", "CSS", "Bootstrap"],
       "repoUrl": "https://github.com/jateez/RehatQ-FinalProject",
       "appUrl": "",
-      "imageUrl": "https://example.com/images/fitmelook.png",
+      "imageUrl": "",
       "isOngoing": false,
       "littleNote": ""
     }

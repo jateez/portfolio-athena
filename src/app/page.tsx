@@ -19,14 +19,18 @@ export default function Home() {
               Software Engineer with <span className="bg-main px-1">high curiosity</span>
             </h2>
             <p className="pt-5 text-medium max-w-2xl leading-relaxed">
-              A Google Certified Associate Cloud Engineer and distinction graduate from Bangkit Academy (top 10%) and scholarships honor awardee from Hacktiv8. Experienced leading teams and enjoy facing challenges. Open-minded, always up
-              for new adventures and a life-long learner. Computer Science student at Brawijaya Uni. Started contributing on open source recently.
+              Software engineer by day, lifelong learner by... well, every day. Google Certified Associate Cloud Engineer, proud distinction grad from Bangkit Academy (top 10%), and scholarship awardee and honor graduate from Hacktiv8.
+              Experienced in leading teams and always up for a challenge. Open-minded and constantly on the lookout for new adventures. Currently studying Computer Science at Brawijaya Uni and recently jumped into the open source world to
+              give back a little (and learn a lot).
             </p>
           </div>
           <Image src={latestProfilePicture} alt="Arya Wibowo Jati" priority className="rounded-full object-cover mx-auto md:mx-0" width={160} height={160} />
         </div>
         <section className="mt-10">
-          <h3 className="text-lg font-medium">few technologies I recently worked with:</h3>
+          <h3 className="text-lg font-medium">
+            {" "}
+            <span className="border-b-2 border-main">few technologies I recently worked with:</span>
+          </h3>
           <div className="mt-6 grid grid-cols-2 gap-y-4">
             {/* Core Technologies */}
             <div>
@@ -106,15 +110,26 @@ export default function Home() {
           </div>
         </section>
         <section className="mt-10">
-          <h3 className="text-xl font-medium mb-6">featured projects</h3>
+          <h3 className="text-xl font-medium mb-6">
+            <span className="border-b-2 border-main">featured projects:</span>
+          </h3>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {featured_projects.map((project) => (
               <Card key={project.id} className="flex flex-col h-full">
                 <CardHeader>
                   <CardTitle>{project.name}</CardTitle>
                 </CardHeader>
+                <div className="px-6">
+                  <div className="w-full h-48 overflow-hidden rounded-lg">
+                    <img loading="lazy" src={project.imageUrl === "" ? "https://picsum.photos/900" : project.imageUrl} alt={project.name} className="w-full h-full object-cover" />
+                  </div>
+                </div>
                 <CardContent className="flex-grow">
-                  <span className="text-white"> {project.isOngoing ? "Work in progress" : ""}</span>
+                  {project.isOngoing && (
+                    <div className="pt-4">
+                      <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-gray-100 text-yellow-800">Work in progress</span>
+                    </div>
+                  )}
                   <CardDescription>{project.description}</CardDescription>
                   <div className="flex flex-wrap gap-2 mt-4">
                     {project.techStacks.map((techStack) => (
