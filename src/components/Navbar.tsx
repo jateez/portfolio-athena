@@ -43,7 +43,7 @@ export default function Navbar() {
             resume
           </Link>
         </div>
-        <button onClick={() => setIsMenuOpen(!isMenuOpen)} className="md:hidden p-2 rounded-lg hover:bg-gray-100 transition-colors">
+        <button onClick={() => setIsMenuOpen(!isMenuOpen)} className="md:hidden mx-1 p-1.5 rounded-lg hover:bg-main transition-colors">
           <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
             {isMenuOpen ? <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" /> : <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />}
           </svg>
@@ -51,7 +51,7 @@ export default function Navbar() {
       </div>
 
       {/* Mobile Navigation */}
-      <div className={`${isMenuOpen ? "flex" : "hidden"} md:hidden flex-col space-y-3 pt-4 pb-3`}>
+      <div className={`${isMenuOpen ? "flex" : "hidden"} md:hidden mx-2 flex-col space-y-3 pt-2 pb-3`}>
         <Link href={"/"} className={buttonVariants({ variant: pathname == "/" ? "neutralNoShadow" : "reverseNoShadow", size: "sm", className: "w-full justify-center" })}>
           about
         </Link>
