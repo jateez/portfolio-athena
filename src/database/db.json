@@ -33,8 +33,8 @@
       "description": "A service platform that enables users to order home cleaning and shopping delivery services in a single app. Users can choose to be Jalu (service requester) or Yusa (task performer).",
       "techStacks": ["TypeScript", "JavaScript", "Node.js", "Express", "React", "ReactNative", "Redis", "Tailwind CSS", "DaisyUI", "AWS", "MongoDB", "Mongoose"],
       "repoUrl": "https://github.com/orgs/Graduation-Team-SBY/",
-      "appUrl": "",
-      "imageUrl": "",
+      "appUrl": "https://yangtu-final-project.web.app/",
+      "imageUrl": "/projects/yangtu.png",
       "isOngoing": false,
       "littleNote": "Developed within two weeks as part of a six-member team, I was responsible for designing the application architecture and managing the development and deployments of both backend and mobile applications. Balancing a robust backend with responsive interfaces presented challenges, but ultimately led to a rewarding, user-centered outcome."
     },
@@ -55,8 +55,8 @@
       "description": "A real-time, competitive typing game designed to boost users' typing speed through a fun, interactive environment. Compete with others online to level up your typing skills in real time",
       "techStacks": ["JavaScript", "Node.js", "Express", "React.js", "Tailwind CSS", "DaisyUI", "Socket.IO", "AWS"],
       "repoUrl": "https://github.com/orgs/LingoLandSaga/",
-      "appUrl": "",
-      "imageUrl": "",
+      "appUrl": "https://lingo-land-saga.web.app/",
+      "imageUrl": "/projects/lingolandsaga.png",
       "isOngoing": false,
       "littleNote": "Collaborating with a partner, I implemented real-time Socket.IO connections to create dynamic and fluid gameplay, significantly enhancing the user experience."
     }
@@ -118,8 +118,8 @@
       "description": "A real-time, competitive typing game designed to boost users' typing speed through a fun, interactive environment. Compete with others online to level up your typing skills in real time",
       "techStacks": ["JavaScript", "Node.js", "Express", "React.js", "Tailwind CSS", "DaisyUI", "Socket.IO", "AWS"],
       "repoUrl": "https://github.com/orgs/LingoLandSaga/",
-      "appUrl": "",
-      "imageUrl": "",
+      "appUrl": "https://lingo-land-saga.web.app/",
+      "imageUrl": "/projects/lingolandsaga.png",
       "isOngoing": false,
       "littleNote": "Collaborating with a partner, I implemented real-time Socket.IO connections to create dynamic and fluid gameplay, significantly enhancing the user experience."
     },
