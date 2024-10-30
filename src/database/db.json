@@ -69,7 +69,7 @@
       "techStacks": ["TypeScript", "Node.js", "React", "Next.js", "Redis", "Tailwind CSS", "Shadcn"],
       "repoUrl": "https://github.com/jateez/portfolio-athena",
       "appUrl": "https://jateez.dev",
-      "imageUrl": "",
+      "imageUrl": "/projects/portfolio-athena.png",
       "isOngoing": true,
       "littleNote": ""
     },
@@ -79,7 +79,7 @@
       "techStacks": ["TypeScript", "Node.js", "Express", "React.js", "Tailwind CSS", "DaisyUI"],
       "repoUrl": "",
       "appUrl": "https://maumelali-client.pages.dev/",
-      "imageUrl": "",
+      "imageUrl": "/projects/maumelali.png",
       "isOngoing": true,
       "littleNote": ""
     },
@@ -88,8 +88,8 @@
       "description": "A service platform that enables users to order home cleaning and shopping delivery services in a single app. Users can choose to be Jalu (service requester) or Yusa (task performer). This app provides flexibility and convenience for both parties, creating an efficient and user-friendly experience for daily needs.",
       "techStacks": ["TypeScript", "JavaScript", "Node.js", "Express", "React", "ReactNative", "Redis", "Tailwind CSS", "DaisyUI", "AWS", "MongoDB", "Mongoose"],
       "repoUrl": "https://github.com/orgs/Graduation-Team-SBY/",
-      "appUrl": "",
-      "imageUrl": "",
+      "appUrl": "https://yangtu-final-project.web.app/",
+      "imageUrl": "/projects/yangtu.png",
       "isOngoing": false,
       "littleNote": "Developed within two weeks as part of a six-member team, I was responsible for designing the application architecture and managing the development and deployments of both backend and mobile applications. Balancing a robust backend with responsive interfaces presented challenges, but ultimately led to a rewarding, user-centered outcome."
     },
@@ -99,7 +99,7 @@
       "techStacks": ["TypeScript", "Node.js", "Express", "React", "Next.js", "Redis", "Tailwind CSS", "DaisyUI", "AWS"],
       "repoUrl": "https://github.com/jateez/Idolniso-Public",
       "appUrl": "https://idolniso.vercel.app/",
-      "imageUrl": "",
+      "imageUrl": "/projects/idolniso.png",
       "isOngoing": false,
       "littleNote": ""
     },
@@ -159,7 +159,7 @@
       "techStacks": ["HTML", "CSS", "JavaScript"],
       "repoUrl": "https://github.com/jateez/H8-P0-Hackacton",
       "appUrl": "https://jateez.github.io/H8-P0-Hackacton/",
-      "imageUrl": "",
+      "imageUrl": "/projects/krusty-krab.png",
       "isOngoing": false,
       "littleNote": ""
     },
