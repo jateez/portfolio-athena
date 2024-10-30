@@ -66,7 +66,7 @@
     {
       "name": "Portfolio Website (Athena)",
       "description": "A simple portfolio website. This project was created to help me hone my Next.js competencies.",
-      "techStacks": ["TypeScript", "Node.js", "React", "Next.js", "Redis", "Tailwind CSS", "Shadcn"],
+      "techStacks": ["TypeScript", "Node.js", "Next.js", "Tailwind CSS", "Shadcn"],
       "repoUrl": "https://github.com/jateez/portfolio-athena",
       "appUrl": "https://jateez.dev",
       "imageUrl": "/projects/portfolio-athena.png",
