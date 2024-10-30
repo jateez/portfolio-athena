@@ -1,4 +1,31 @@
 {
+  "experiences": [
+    {
+      "id": 1,
+      "title": "Laboratory Assistant",
+      "name": "Database Administration Laboratory",
+      "timeStart": "08/2023",
+      "timeEnd": "12/2023",
+      "description": "Supervised and mentored 40+ students in database administration, providing in-depth feedback and facilitating hands-on projects to strengthen their skills and comprehension."
+    },
+    {
+      "id": 2,
+      "title": "Distinction Graduate in Cloud Computing",
+      "name": "Bangkit Academy 2024 H1",
+      "timeStart": "02/2024",
+      "timeEnd": "07/2024",
+      "description": "Served as project manager, overseeing team efforts and co-developing the backend for the FitMeLook application alongside a partner."
+    },
+    {
+      "id": 3,
+      "title": "Honor Graduate and Scholarship Awardee",
+      "name": "Hacktiv8 Full Stack JavaScript Program",
+      "timeStart": "05/2024",
+      "timeEnd": "09/2024",
+      "description": "Solved complex problems and developed multiple projects, sharpening software engineering skills and advancing in full-stack JavaScript."
+    }
+  ],
+
   "featured_projects": [
     {
       "id": 1,
