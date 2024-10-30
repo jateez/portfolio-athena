@@ -37,11 +37,11 @@
 
   "projects": [
     {
-      "name": "(Current) Portfolio Website",
+      "name": "Portfolio Website (Athena)",
       "description": "A simple portfolio website. This project was created to help me hone my Next.js competencies.",
       "techStacks": ["TypeScript", "Node.js", "React", "Next.js", "Redis", "Tailwind CSS", "Shadcn"],
-      "repoUrl": "https://github.com/jateez/Portfolio-Athena",
-      "appUrl": "",
+      "repoUrl": "https://github.com/jateez/portfolio-athena",
+      "appUrl": "https://jateez.dev",
       "imageUrl": "",
       "isOngoing": true,
       "littleNote": ""
@@ -50,8 +50,8 @@
       "name": "MauMelali",
       "description": "A responsive website to assist travelers in finding unique European experiences, complete with a custom blogging server.",
       "techStacks": ["TypeScript", "Node.js", "Express", "React.js", "Tailwind CSS", "DaisyUI"],
-      "repoUrl": "https://github.com/jateez/",
-      "appUrl": "",
+      "repoUrl": "",
+      "appUrl": "https://maumelali-client.pages.dev/",
       "imageUrl": "",
       "isOngoing": true,
       "littleNote": ""
