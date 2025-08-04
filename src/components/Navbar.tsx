@@ -76,7 +76,7 @@ export default function Navbar() {
             </Link>
           </div>
           <Link
-            href={"https://drive.google.com/uc?export=download&id=1jVqXnVKGL8Zk4EzC6n6nmpxWrDjWd6KJ"}
+            href={"https://drive.google.com/uc?export=download&id=18Vs1ZdO6zpDMCrWR-axlBy2UdPFL_tGt"}
             download={true}
             className={buttonVariants({
               variant: "default",
