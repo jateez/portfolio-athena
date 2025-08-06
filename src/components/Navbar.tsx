@@ -63,6 +63,8 @@ export default function Navbar() {
             >
               experiences
             </Link>
+            {
+              /*
             <Link
               href={"/blogs"}
               className={buttonVariants({
@@ -74,6 +76,8 @@ export default function Navbar() {
             >
               blogs
             </Link>
+            */
+            }
           </div>
           <Link
             href={"https://drive.google.com/uc?export=download&id=18Vs1ZdO6zpDMCrWR-axlBy2UdPFL_tGt"}
