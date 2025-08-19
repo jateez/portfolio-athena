@@ -45,19 +45,20 @@
       "techStacks": ["TypeScript", "Node.js", "NestJS", "Cloud Firestore", "Firebase", "Google Cloud Platform", "TensorFlow.js"],
       "repoUrl": "https://github.com/orgs/Bangkit-Project-FitMe/",
       "appUrl": "",
-      "imageUrl": "https://github.com/Bangkit-Project-FitMe/.github/blob/main/profile/logo2.png",
+      "imageUrl": "/projects/fitmelook.png",
       "isOngoing": false,
       "littleNote": "Led the team as project manager, while also collaborating with my partner on backend development and cloud infrastructure. Through problem-oriented data exploration, we designed FitMeLook with iterative AI adjustments to enhance the accuracy of personalized recommendations."
     },
     {
       "id": 3,
       "name": "Pndk.in",
-      "description": "An application to shorten you URL. Pndk.in means Pendekin (shorten it in indonesian)",
+      "description": "An application to shorten your URL. Pndk.in means Pendekin (shorten it in indonesian)",
       "techStacks": ["Go", "PostgresSQL"],
       "repoUrl": "https://github.com/jateez/pndk.in/",
       "appUrl": "",
       "imageUrl": "",
       "isOngoing": false,
+      "littleNote": ""
     }
   ],
 
@@ -70,8 +71,9 @@
       "appUrl": "",
       "imageUrl": "",
       "isOngoing": false,
-    }
-    {
+      "littleNote": ""
+    },
+      {
       "name": "Portfolio Website",
       "description": "A simple portfolio website. This project was created to showcase my works and help me hone my Next.js competencies",
       "techStacks": ["TypeScript", "Node.js", "Next.js", "Tailwind CSS", "Shadcn"],
@@ -177,7 +179,7 @@
       "techStacks": ["TypeScript", "Node.js", "NestJS", "Cloud Firestore", "Firebase", "Google Cloud Platform", "TensorFlow.js"],
       "repoUrl": "https://github.com/orgs/Bangkit-Project-FitMe/",
       "appUrl": "",
-      "imageUrl": "https://github.com/Bangkit-Project-FitMe/.github/blob/main/profile/logo2.png",
+      "imageUrl": "/projects/fitmelook.png",
       "isOngoing": false,
       "littleNote": "Led the team as project manager, while also collaborating with my partner on backend development and cloud infrastructure. Through problem-oriented data exploration, we designed FitMeLook with iterative AI adjustments to enhance the accuracy of personalized recommendations."
     },
