@@ -5,6 +5,7 @@ import { usePathname } from "next/navigation";
 import { useState } from "react";
 
 import { buttonVariants } from "./ui/button";
+import { CV_URL } from "../const.ts";
 
 export default function Navbar() {
   const pathname = usePathname();
@@ -80,7 +81,7 @@ export default function Navbar() {
             }
           </div>
           <Link
-            href={"https://drive.google.com/uc?export=download&id=18Vs1ZdO6zpDMCrWR-axlBy2UdPFL_tGt"}
+            href={CV_URL}
             download={true}
             className={buttonVariants({
               variant: "default",
