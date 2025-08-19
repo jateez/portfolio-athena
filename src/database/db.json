@@ -51,21 +51,29 @@
     },
     {
       "id": 3,
-      "name": "LingoLandSaga",
-      "description": "A real-time, competitive typing game designed to boost users' typing speed through a fun, interactive environment. Compete with others online to level up your typing skills in real time",
-      "techStacks": ["JavaScript", "Node.js", "Express", "React.js", "Tailwind CSS", "DaisyUI", "Socket.IO", "AWS"],
-      "repoUrl": "https://github.com/orgs/LingoLandSaga/",
-      "appUrl": "https://lingo-land-saga.web.app/",
-      "imageUrl": "/projects/lingolandsaga.png",
+      "name": "Pndk.in",
+      "description": "An application to shorten you URL. Pndk.in means Pendekin (shorten it in indonesian)",
+      "techStacks": ["Go", "PostgresSQL"],
+      "repoUrl": "https://github.com/jateez/pndk.in/",
+      "appUrl": "",
+      "imageUrl": "",
       "isOngoing": false,
-      "littleNote": "Collaborating with a partner, I implemented real-time Socket.IO connections to create dynamic and fluid gameplay, significantly enhancing the user experience."
     }
   ],
 
   "projects": [
     {
-      "name": "Portfolio Website (Athena)",
-      "description": "A simple portfolio website. This project was created to help me hone my Next.js competencies.",
+      "name": "Pndk.in",
+      "description": "An application to shorten you URL. Pndk.in means Pendekin (shorten it in indonesian)",
+      "techStacks": ["Go", "PostgresSQL"],
+      "repoUrl": "https://github.com/jateez/pndk.in/",
+      "appUrl": "",
+      "imageUrl": "",
+      "isOngoing": false,
+    }
+    {
+      "name": "Portfolio Website",
+      "description": "A simple portfolio website. This project was created to showcase my works and help me hone my Next.js competencies",
       "techStacks": ["TypeScript", "Node.js", "Next.js", "Tailwind CSS", "Shadcn"],
       "repoUrl": "https://github.com/jateez/portfolio-athena",
       "appUrl": "https://jateez.dev",
