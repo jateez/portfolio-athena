@@ -10,10 +10,7 @@ export default function Experiences() {
           Experiences that <span className="text-main">shaped</span> my journey
         </h1>
         <p className="pt-5 text-medium max-w-3xl leading-relaxed">
-          Each experience brought a mix of fun, challenges, lessons, and
-          memories. The common thread across them is how they each{" "}
-          <span className="border-b-4 border-main">contributed</span>{" "}
-          to my growth, helping me become a{" "}
+          Each experience brought a mix of fun, challenges, lessons, and memories. The common thread across them is how they each <span className="border-b-4 border-main">contributed</span> to my growth, helping me become a{" "}
           <span className="border-b-4 border-main">better person</span>.
         </p>
         <div className="flex flex-col container my-6">
@@ -22,26 +19,18 @@ export default function Experiences() {
               <li key={experience.id} className="ms-6 p-5">
                 <span className="absolute mt-1.5 -start-2 rounded-full w-3 h-3 bg-main" />
                 <div className="mb-4 space-y-1">
-                  <h2 className="text-xl font-bold font-plus">
-                    {experience.title}
-                  </h2>
+                  <h2 className="text-xl font-bold font-plus">{experience.title}</h2>
                   <p className="text-sm">{experience.name}</p>
-                  <p className="text-sm">
-                    {timeFormatter(experience.timeStart, experience.timeEnd)}
-                  </p>
+                  <p className="text-sm">{timeFormatter(experience.timeStart, experience.timeEnd)}</p>
                 </div>
                 <div className="mb-4 space-y-1">
-                  <p className="font-semibold text-base mb-3">
-                    Key Contributions
-                  </p>
+                  <p className="font-semibold text-base mb-3">Key Contributions</p>
                   <p>{experience.description}</p>
                 </div>
-                {
-                  /* <div className="space-y-1">
+                {/* <div className="space-y-1">
                   <p className="font-semibold text-base mb-1">Technology Used:</p>
                   <span className="text-sm">{"asdsadas"}</span>
-                </div> */
-                }
+                </div> */}
               </li>
             ))}
           </ol>

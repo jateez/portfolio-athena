@@ -6,7 +6,7 @@
       "name": "Database Administration Laboratory",
       "timeStart": "08/2023",
       "timeEnd": "12/2023",
-      "description": "Supervised and mentored 40+ students in database administration, providing in-depth feedback and facilitating hands-on projects to strengthen their skills and comprehension."
+      "description": "Guided 40+ students in database administration, strengthening engagement and practical skills through supervised sessions, hands-on exercises, and one-on-one support"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "name": "Bangkit Academy 2024 H1",
       "timeStart": "02/2024",
       "timeEnd": "07/2024",
-      "description": "Served as project manager, overseeing team efforts and co-developing the backend for the FitMeLook application alongside a partner."
+      "description": "Chosen from 55,000 applicants to join Bangkit Cloud Computing path and graduated with distinction (Top 10%), among only 136 students recognized for exceptional achievement"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "name": "Hacktiv8 Full Stack JavaScript Program",
       "timeStart": "05/2024",
       "timeEnd": "09/2024",
-      "description": "Solved complex problems and developed multiple projects, sharpening software engineering skills and advancing in full-stack JavaScript."
+      "description": "Awarded a full scholarship as the top candidate among 30+ participants, graduated with Honor, and had the final project recognized as the best project in the batch"
     }
   ],
 
@@ -55,7 +55,7 @@
       "description": "An application to shorten your URL. Pndk.in means Pendekin (shorten it in indonesian)",
       "techStacks": ["Go", "PostgresSQL"],
       "repoUrl": "https://github.com/jateez/pndk.in/",
-      "appUrl": "",
+      "appUrl": "https://pndkin.xyz",
       "imageUrl": "",
       "isOngoing": false,
       "littleNote": ""
@@ -64,32 +64,42 @@
 
   "projects": [
     {
-      "name": "Pndk.in",
-      "description": "An application to shorten you URL. Pndk.in means Pendekin (shorten it in indonesian)",
-      "techStacks": ["Go", "PostgresSQL"],
-      "repoUrl": "https://github.com/jateez/pndk.in/",
-      "appUrl": "",
+      "name": "Roastify",
+      "description": "A web app to generate personalized roast based on Spotify profile, favourite tracks and artists data",
+      "techStacks": ["Go", "Bun", "TypeScript", "React", "Tailwind CSS", "Vite"],
+      "repoUrl": "https://github.com/jateez/Roastify",
+      "appUrl": "https://roastify.jateez.my.id",
       "imageUrl": "",
       "isOngoing": false,
       "littleNote": ""
     },
-      {
+    {
+      "name": "Pndk.in",
+      "description": "An application to shorten you URL. Pndk.in means Pendekin (shorten it in indonesian)",
+      "techStacks": ["Go", "PostgresSQL", "React"],
+      "repoUrl": "https://github.com/jateez/pndk.in/",
+      "appUrl": "https://pndkin.xyz",
+      "imageUrl": "",
+      "isOngoing": false,
+      "littleNote": ""
+    },
+    {
+      "name": "MauMelali",
+      "description": "A responsive website for Travel Agency to assist travelers in finding unique European experiences, complete with a custom blogging server.",
+      "techStacks": ["TypeScript", "Bun", "Node.js", "Express", "React", "Tailwind CSS", "DaisyUI"],
+      "repoUrl": "",
+      "appUrl": "https://maumelali-client.pages.dev/",
+      "imageUrl": "/projects/maumelali.png",
+      "isOngoing": true,
+      "littleNote": ""
+    },
+    {
       "name": "Portfolio Website",
       "description": "A simple portfolio website. This project was created to showcase my works and help me hone my Next.js competencies",
       "techStacks": ["TypeScript", "Node.js", "Next.js", "Tailwind CSS", "Shadcn"],
       "repoUrl": "https://github.com/jateez/portfolio-athena",
       "appUrl": "https://jateez.dev",
       "imageUrl": "/projects/portfolio-athena.png",
-      "isOngoing": true,
-      "littleNote": ""
-    },
-    {
-      "name": "MauMelali",
-      "description": "A responsive website to assist travelers in finding unique European experiences, complete with a custom blogging server.",
-      "techStacks": ["TypeScript", "Node.js", "Express", "React.js", "Tailwind CSS", "DaisyUI"],
-      "repoUrl": "",
-      "appUrl": "https://maumelali-client.pages.dev/",
-      "imageUrl": "/projects/maumelali.png",
       "isOngoing": true,
       "littleNote": ""
     },
@@ -102,6 +112,16 @@
       "imageUrl": "/projects/yangtu.png",
       "isOngoing": false,
       "littleNote": "Developed within two weeks as part of a six-member team, I was responsible for designing the application architecture and managing the development and deployments of both backend and mobile applications. Balancing a robust backend with responsive interfaces presented challenges, but ultimately led to a rewarding, user-centered outcome."
+    },
+    {
+      "name": "FitMeLook",
+      "description": "A mobile app using AI to personalize outfit recommendations based on facial features and seasonal color palettes. Tailored for women, this app marries fashion with cutting-edge technology for an engaging user experience.",
+      "techStacks": ["TypeScript", "Node.js", "NestJS", "Cloud Firestore", "Firebase", "Google Cloud Platform", "TensorFlow.js"],
+      "repoUrl": "https://github.com/orgs/Bangkit-Project-FitMe/",
+      "appUrl": "",
+      "imageUrl": "/projects/fitmelook.png",
+      "isOngoing": false,
+      "littleNote": "Led the team as project manager, while also collaborating with my partner on backend development and cloud infrastructure. Through problem-oriented data exploration, we designed FitMeLook with iterative AI adjustments to enhance the accuracy of personalized recommendations."
     },
     {
       "name": "Idolniso",
@@ -126,7 +146,7 @@
     {
       "name": "LingoLandSaga",
       "description": "A real-time, competitive typing game designed to boost users' typing speed through a fun, interactive environment. Compete with others online to level up your typing skills in real time",
-      "techStacks": ["JavaScript", "Node.js", "Express", "React.js", "Tailwind CSS", "DaisyUI", "Socket.IO", "AWS"],
+      "techStacks": ["JavaScript", "Node.js", "Express", "React", "Tailwind CSS", "DaisyUI", "Socket.IO", "AWS"],
       "repoUrl": "https://github.com/orgs/LingoLandSaga/",
       "appUrl": "https://lingo-land-saga.web.app/",
       "imageUrl": "/projects/lingolandsaga.png",
@@ -134,19 +154,9 @@
       "littleNote": "Collaborating with a partner, I implemented real-time Socket.IO connections to create dynamic and fluid gameplay, significantly enhancing the user experience."
     },
     {
-      "name": "Roastify",
-      "description": "A lighthearted AI app that humorously “roasts” users based on their Spotify favorites, merging music taste with fun analysis.",
-      "techStacks": ["JavaScript", "Node.js", "Express", "React.js", "Tailwind CSS", "DaisyUI", "AWS"],
-      "repoUrl": "https://github.com/jateez/Roastify-Public",
-      "appUrl": "",
-      "imageUrl": "",
-      "isOngoing": false,
-      "littleNote": ""
-    },
-    {
       "name": "Restaurant App",
       "description": "A simple restaurant app, developed for the purpose of learning while in Hacktiv8.",
-      "techStacks": ["JavaScript", "Node.js", "React.js", "Tailwind CSS", "DaisyUI", "AWS", "Firebase"],
+      "techStacks": ["JavaScript", "Node.js", "React", "Tailwind CSS", "DaisyUI", "AWS", "Firebase"],
       "repoUrl": "https://github.com/jateez/Restaurant-App-Public",
       "appUrl": "",
       "imageUrl": "",
@@ -170,26 +180,6 @@
       "repoUrl": "https://github.com/jateez/H8-P0-Hackacton",
       "appUrl": "https://jateez.github.io/H8-P0-Hackacton/",
       "imageUrl": "/projects/krusty-krab.png",
-      "isOngoing": false,
-      "littleNote": ""
-    },
-    {
-      "name": "FitMeLook",
-      "description": "A mobile app using AI to personalize outfit recommendations based on facial features and seasonal color palettes. Tailored for women, this app marries fashion with cutting-edge technology for an engaging user experience.",
-      "techStacks": ["TypeScript", "Node.js", "NestJS", "Cloud Firestore", "Firebase", "Google Cloud Platform", "TensorFlow.js"],
-      "repoUrl": "https://github.com/orgs/Bangkit-Project-FitMe/",
-      "appUrl": "",
-      "imageUrl": "/projects/fitmelook.png",
-      "isOngoing": false,
-      "littleNote": "Led the team as project manager, while also collaborating with my partner on backend development and cloud infrastructure. Through problem-oriented data exploration, we designed FitMeLook with iterative AI adjustments to enhance the accuracy of personalized recommendations."
-    },
-    {
-      "name": "PDF Scraper",
-      "description": "Built for personal use, this script scrapes and downloads PDFs from specified websites, utilizing Node.js for efficient data scraping and storage.",
-      "techStacks": ["Node.js", "JavaScript"],
-      "repoUrl": "https://github.com/jateez/fun-nodejs-pdf-scraper",
-      "appUrl": "",
-      "imageUrl": "",
       "isOngoing": false,
       "littleNote": ""
     },
@@ -268,16 +258,6 @@
       "description": "To-do list web app.",
       "techStacks": ["PHP", "JavaScript", "Laravel", "Blade", "Bootstrap 5", "MySQL"],
       "repoUrl": "https://github.com/jateez/todoo-app",
-      "appUrl": "",
-      "imageUrl": "",
-      "isOngoing": false,
-      "littleNote": ""
-    },
-    {
-      "name": "RehatQ",
-      "description": "RehatQ is a platform for helping you to have a better mental health. This project was built for Basic User Interface Design class.",
-      "techStacks": ["HTML", "CSS", "Bootstrap"],
-      "repoUrl": "https://github.com/jateez/RehatQ-FinalProject",
       "appUrl": "",
       "imageUrl": "",
       "isOngoing": false,
