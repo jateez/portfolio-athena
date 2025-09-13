@@ -138,8 +138,8 @@ export default function Navbar() {
           blogs
         </Link>
         <Link
-          href="https://drive.google.com/uc?export=download&id=1svU4ZtK5Y-9Xw5yrBMKcODqqftcXV_zc"
-          download
+          href={CV_URL}
+          download={true}
           onClick={() => setIsMenuOpen(false)}
           className={buttonVariants({
             variant: "default",
